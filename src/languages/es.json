@@ -21,7 +21,7 @@
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
+            "texto1": "¡Esto es un BOT! No habla! 🤐"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
@@ -2340,7 +2340,7 @@
         "gc_tagall": {
             "texto1": [
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
-                "*⺀DESPIERTA TE 𝙈𝙀𝙇𝘼𝙉𝙄𝙀 BOT⺀*\n\n❏",
+                "*¡Hi! Soy cereza Bot! ¿Que vamos a hacer hoy? *\n\n❏",
                 "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
             ]
         },
